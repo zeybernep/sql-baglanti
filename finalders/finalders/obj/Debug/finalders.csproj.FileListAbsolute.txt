@@ -1,0 +1,11 @@
+C:\Users\Zeynep\Desktop\finalders\finalders\bin\Debug\finalders.exe.config
+C:\Users\Zeynep\Desktop\finalders\finalders\bin\Debug\finalders.exe
+C:\Users\Zeynep\Desktop\finalders\finalders\bin\Debug\finalders.pdb
+C:\Users\Zeynep\Desktop\finalders\finalders\obj\Debug\finalders.csproj.AssemblyReference.cache
+C:\Users\Zeynep\Desktop\finalders\finalders\obj\Debug\finalders.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zeynep\Desktop\finalders\finalders\obj\Debug\finalders.Form1.resources
+C:\Users\Zeynep\Desktop\finalders\finalders\obj\Debug\finalders.Properties.Resources.resources
+C:\Users\Zeynep\Desktop\finalders\finalders\obj\Debug\finalders.csproj.GenerateResource.cache
+C:\Users\Zeynep\Desktop\finalders\finalders\obj\Debug\finalders.csproj.CoreCompileInputs.cache
+C:\Users\Zeynep\Desktop\finalders\finalders\obj\Debug\finalders.exe
+C:\Users\Zeynep\Desktop\finalders\finalders\obj\Debug\finalders.pdb
